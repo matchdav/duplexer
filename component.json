@@ -1,0 +1,16 @@
+{
+  "name": "duplexer",
+  "repo": "matchdav/duplexer",
+  "description": "duplex streams for the browser",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "juliangruber/stream": "v0.0.1"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
